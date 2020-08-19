@@ -2,7 +2,7 @@ $(document).ready(function() {
     //Fonction permettant la récupération des informations d'un pays
     function getInfoByName (code){
         //Paramètres nécessaires pour la requête
-        var apiKey = "e957d522eamshd2baa32faa95c3dp19d127jsna00de7e5175c" //A remplir
+        var apiKey = "" //A remplir
         var settings = {
             "async": true,
             "crossDomain": true,
