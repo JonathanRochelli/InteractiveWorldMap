@@ -1,3 +1,4 @@
+# Carte du monde interactive
 ## Fonctionnalités
 
 La carte dispose d'un système de **zoom** permettant d'améliorer la lisibilité.
